@@ -3,7 +3,7 @@
 
 ## Install
 ```
-  npm i runall 
+  npm i @simon_he/runall 
 ```
 
 ## Usage
