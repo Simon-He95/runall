@@ -1,4 +1,4 @@
-## runall
+## @simon_he/runall 
 并行执行命令
 
 ## Install
