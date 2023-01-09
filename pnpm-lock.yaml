@@ -9,14 +9,14 @@ importers:
       bumpp: ^8.2.1
       eslint: ^8.18.0
       esno: ^0.16.3
-      lazy-js-utils: ^0.0.16
+      lazy-js-utils: ^0.0.18
       pnpm: ^7.2.1
       rimraf: ^3.0.2
       tsup: ^6.5.0
       typescript: ^4.7.4
       vitest: ^0.26.0
     dependencies:
-      lazy-js-utils: 0.0.16_typescript@4.7.4
+      lazy-js-utils: 0.0.18_typescript@4.7.4
     devDependencies:
       '@antfu/eslint-config': 0.34.0_b5e7v2qnwxfo6hmiq56u52mz3e
       '@types/node': 18.0.0
@@ -2498,8 +2498,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /lazy-js-utils/0.0.16_typescript@4.7.4:
-    resolution: {integrity: sha512-WCdvJzStDiPBbdF8GJorOE7YX97LmEITUWdRmgztqamI7UyX1xO0NbQ6xk63JF/F6e4XizliFfy/fyd4iY4hxw==}
+  /lazy-js-utils/0.0.18_typescript@4.7.4:
+    resolution: {integrity: sha512-GGmAoGDGE00ttuZNCJzYbLkDownTZkwCe+Vpo7/2KRZ08mtepchPqG7hEOGa3TtGwg796mc6hsWVGFmEkOkzAw==}
     dependencies:
       '@vueuse/core': 8.9.4_vue@3.2.45
       htmlparser2: 8.0.1
