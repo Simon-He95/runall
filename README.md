@@ -11,7 +11,9 @@
 # Package.json
 "scripts":{
     "run-all":"runall \"pnpm lint\"  \"pnpm i\"",
+    "run-all":"runall \"lint*\" --parallel",
     "lint": "eslint . --ext .vue,.js,.ts,.jsx,.tsx,.md,.json --max-warnings 0 --cache",
+    "lint:fix": "eslint . --ext .vue,.js,.ts,.jsx,.tsx,.md,.json --max-warnings 0 --cache",
 }
 ```
 
