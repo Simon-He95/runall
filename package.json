@@ -52,7 +52,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "lazy-js-utils": "^0.0.29"
+    "lazy-js-utils": "^0.0.32"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.34.0",
