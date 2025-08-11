@@ -29,7 +29,7 @@ importers:
         version: 0.16.3
       pnpm:
         specifier: ^8.0.0
-        version: 8.0.0
+        version: 8.15.9
       rimraf:
         specifier: ^3.0.2
         version: 3.0.2
@@ -1060,7 +1060,7 @@ packages:
       normalize-path: 3.0.0
       readdirp: 3.6.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
 
   /ci-info@3.7.1:
     resolution: {integrity: sha512-4jYS4MOAaCIStSRwiuxc4B8MYhIe676yO1sYGzARnjXkWpmzZMMYxY6zu8WYWDhSuth5zhrQ1rhNSibyyvv4/w==}
@@ -2210,8 +2210,8 @@ packages:
   /fs.realpath@1.0.0:
     resolution: {integrity: sha1-FQStJSMVjKpA20onh8sBQRmU6k8=}
 
-  /fsevents@2.3.2:
-    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
+  /fsevents@2.3.3:
+    resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
@@ -3018,8 +3018,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: false
 
-  /pnpm@8.0.0:
-    resolution: {integrity: sha512-Crsvd8LKb+SoEB/bQxRZrtSt5Ri8g9jmPg6MKyexMTI1pdLd44gPwVV6cZLq2jYYPv5q+gADPkYTbYr8SeFCeA==}
+  /pnpm@8.15.9:
+    resolution: {integrity: sha512-SZQ0ydj90aJ5Tr9FUrOyXApjOrzuW7Fee13pDzL0e1E6ypjNXP0AHDHw20VLw4BO3M1XhQHkyik6aBYWa72fgQ==}
     engines: {node: '>=16.14'}
     hasBin: true
     dev: true
@@ -3202,7 +3202,7 @@ packages:
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
 
   /run-parallel@1.2.0:
     resolution: {integrity: sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==}
@@ -3569,7 +3569,7 @@ packages:
       '@esbuild-kit/core-utils': 1.1.2
       '@esbuild-kit/esm-loader': 2.1.1
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /type-check@0.4.0:
@@ -3698,7 +3698,7 @@ packages:
       resolve: 1.22.1
       rollup: 3.7.4
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /vitest@0.28.1:
